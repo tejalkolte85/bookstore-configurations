@@ -6,6 +6,10 @@ logging:
   level:
     org:
       hibernate: ERROR
+
+server:
+  port: 8080
+  
 spring:
   datasource:
     password: root
